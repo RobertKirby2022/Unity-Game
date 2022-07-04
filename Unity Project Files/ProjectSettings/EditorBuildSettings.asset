@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash/Splash.unity
+    guid: 8d4e5e516fa303f48aa89943380aae91
+  - enabled: 1
+    path: Assets/Scenes/Categories/EasyCategories.unity
+    guid: 894601157664b3c48958c120ab909fcd
+  - enabled: 1
+    path: Assets/Scenes/EasyQuestions/EasyMath.unity
+    guid: 31fa0df16af20e644bb46c589115a00a
+  - enabled: 1
+    path: Assets/Scenes/EasyQuestions/EasyScience.unity
+    guid: 4fb558f6700c26d46994766591412a06
+  - enabled: 1
+    path: Assets/Scenes/EasyQuestions/EasyEnglish.unity
+    guid: 1ec3c80b374f6f048895f083e2fba6dd
+  - enabled: 1
+    path: Assets/Scenes/EasyQuestions/EasyTechnology.unity
+    guid: 00ba7ce347b20e744ac48a4fd95e2e27
+  - enabled: 1
+    path: Assets/Scenes/Game/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Difficulty/Difficulty.unity
+    guid: 2f147b382dd2a1f46bfad2111c25de3d
+  - enabled: 1
+    path: Assets/Scenes/Categories/MediumCategories.unity
+    guid: ae9ed8fdd3503ea4cae71800702d46e8
+  - enabled: 1
+    path: Assets/Scenes/Categories/HardCategories.unity
+    guid: d1c8f6e5dc4ea5a439eb077a271e29c8
+  - enabled: 1
+    path: Assets/Scenes/MediumQuestions/MediumMath.unity
+    guid: d43291eac7542b14dbebe9a6e5c68d36
+  - enabled: 1
+    path: Assets/Scenes/HardQuestions/HardMath.unity
+    guid: d28b2d812af427d418f712eb93dc6e70
+  - enabled: 1
+    path: Assets/Scenes/HardQuestions/HardScience.unity
+    guid: 23fab68aef8732e42a4b28f8480f2b2d
+  - enabled: 1
+    path: Assets/Scenes/MediumQuestions/MediumScience.unity
+    guid: 5359f87cbd025614a993470688a55625
+  - enabled: 1
+    path: Assets/Scenes/MediumQuestions/MediumEnglish.unity
+    guid: 16ad14e5dde8dc14eac5ffea20f8fbdb
+  - enabled: 1
+    path: Assets/Scenes/HardQuestions/HardEnglish.unity
+    guid: 58805afaafe43ab46884abf467ff89e2
+  - enabled: 1
+    path: Assets/Scenes/MediumQuestions/MediumTechnology.unity
+    guid: 988a35b6aa83dd245a6b580ec52ce9b2
+  - enabled: 1
+    path: Assets/Scenes/HardQuestions/HardTechnology.unity
+    guid: c3bcdd7d9b7b3cc4598b27c178e2094c
+  m_configObjects: {}
